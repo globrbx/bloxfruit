@@ -5,5 +5,5 @@ if game.PlaceId == 4442272183 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/globrbx/bloxfruit/main/Sea2'))()
 end
 if game.PlaceId == 7449423635 then
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/globrbx/bloxfruit/main/Sea3'))()'
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/globrbx/bloxfruit/main/Sea3'))()
 end
