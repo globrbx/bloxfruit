@@ -4,6 +4,6 @@ elseif game.PlaceId == 4442272183 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/globrbx/bloxfruit/main/Sea2'))()
 elseif game.PlaceId == 7449423635 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/globrbx/bloxfruit/main/Sea3'))()'
-else
+elseif
     game.GetService('Players').LocalPlayer:Kick('Player Banned - Nice Remote Retard')
 end
